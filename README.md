@@ -1,5 +1,5 @@
 # DBA-Thesis
-The full repository for my Trading the DBA Thesis: "Volatility Risk Premium: A Machine Learning Approach to Option Straddle Strategies on US Equities"
+The full repository for my DBA Thesis: "Volatility Risk Premium: A Machine Learning Approach to Option Straddle Strategies on US Equities"
 
 # Abstract
 Option straddles allow investors to trade volatility rather than directional price movements. The gap between implied volatility, which reflects the market’s expectation of future volatility, and realized volatility is commonly referred to as the volatility risk premium. Capturing this premium requires not only accurate volatility forecasts but also a trading framework that can translate forecasts into executable and profitable positions. In quantitative finance, volatility forecasting and options strategy evaluation are often studied separately, which makes it difficult to assess whether predictive accuracy leads to implementable trading performance in real markets. A machine-learning approach to this problem is economically relevant because it can help traders diversify away from pure price prediction and toward systematic volatility-based strategies.
